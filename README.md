@@ -77,8 +77,8 @@ My Mom stayed at my aunt's house for around a week and a half. She had nurses an
 
 Here's a couple of pictures of her and I watching the movie The Matrix! She LOVED this movie and it's one of my favorites as well!
 
-![The Matrix With Mom](/images/after-cancer/watching-matrix01.jpg)
-![The Matrix With Mom](/images/after-cancer/watching-matrix02.jpg)
+![The Matrix With Mom #1](/images/after-cancer/watching-matrix01.jpg)
+![The Matrix With Mom #2](/images/after-cancer/watching-matrix02.jpg)
 
 She was still having her good and bad days (more bad than good, but that was to be expected with how fast the fluid was building). No major progress unfortunately, but there was still some hope towards the end because we switched cancer doctors to a doctor that knew my brother and Mom personally. She suggested that we should get a drain put into her stomach to drain the fluid so that we can do it at my Aunt's house every 3 days or so instead of needing to wait a week or longer to do it at the hospital.
 
