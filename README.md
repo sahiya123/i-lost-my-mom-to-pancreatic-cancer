@@ -6,12 +6,12 @@ This has been the worst pain I've endured in my lifetime by a **LONG** shot and 
 
 If you're suffering and want somebody to talk and relate to, my DMs are open! If you have Discord, you can add me! My username is `gamemann`, but I'd recommend joining my [Deaconn](https://discord.deaconn.net/) Discord server first since I get a lot of spam friend requests that are ignored most of the time. You can also email me or contact me through my social media profiles!
 
-**DISCLAIMER** - Some things said in this repository may potentially trigger PTSD or trauma, especially since I detail what my Mom was going through. I'm also very very emotional and some things I say, especially at the end, are very deep as well.
+I also want this repository to act as a tribute to my awesome Mom. I've also added pictures I love inside of the [`pictures/`](./pictures/) directory. There will also be memories and stories available in the [`memories/`](./memories/) directory. Both of these directories will be updated over time as I progress through these difficult times.
 
-I also want this repository to act as a tribute to my awesome Mom since I explain how much of a great mom she was and you can see that with all of the pictures I've added in the [`images/`](./images/) directory. I also plan on writing stories about her and such that I'll put in here.
+**DISCLAIMERS** - Some things said in this repository may potentially trigger PTSD or trauma, especially since I detail what my Mom was going through. I'm also very very emotional and some things I say, especially at the end, are very deep as well. Lastly, the main story here (the README) is not finished and there may be grammar issues. I plan on editing this over time.
 
 ## My Mom
-![Picture 01 Of My Mom](./images/before-cancer/mom01.JPEG)
+![Picture 01 Of My Mom](./pictures/before-cancer/mom01.JPEG)
 
 My Mom passed when she was only **66 years old** (which is considered somewhat young) and I am 27 years old (December 10th, 1997). She was born on August 30th, 1958. She was the sweetest woman I've ever known and my best, best friend. Her smile lit up every room regardless of the situation. She in **every single situation**, put others first before her.
 
@@ -20,7 +20,7 @@ She has touched so many people's lives in such a positive way throughout the yea
 I also want to note my Mom was one of the healthiest people I knew. She never smoked, drank alcohol, or did any other sort of drugs. She was very active, played tennis, ran/jogged, and ate very healthy (vegetables, salad, etc.). My grandmother (her Mom) lasted until she was 96. This is what makes her cancer diagnosis and death so much harder, I was expecting her to live a very long life. Her side of the family also had no history of cancer. I've always been far more worried about my Dad since he has very high blood pressure (while on medication for it) and hasn't ate healthy his entire life.
 
 ## My Mom And I
-![My Mom And I](./images/before-cancer/me-and-her01.jpg)
+![My Mom And I](./pictures/before-cancer/me-and-her01.jpg)
 My Mom and I were very close, especially in the last two and a half years before she passed. Of course, we've had our issues just like any child and parent, but these issues mostly occurred during my teen and early adulthood years. After I lived in San Antonio, Texas for 4 - 5 years due to a job (long ways from home from New Jersey) and I moved back to my childhood home 2 and a half years ago, we were incredibly close. We'd watch movies and shows from my Plex server almost every single night and went on road trips, etc. She would also give great advice on my tech projects such as [TekWorks](https://tekworks.net) (formerly Deaconn) and my [TMC project](https://moddingcommunity.com). She also advised me on how to handle contract work for firewalls I'd create for companies which really helped me!
 
 She was an **AMAZING** Mom...
@@ -77,8 +77,8 @@ My Mom stayed at my aunt's house for around a week and a half. She had nurses an
 
 Here's a couple of pictures of her and I watching the movie The Matrix! She LOVED this movie and it's one of my favorites as well!
 
-![The Matrix With Mom #1](/images/after-cancer/watching-matrix01.jpg)
-![The Matrix With Mom #2](/images/after-cancer/watching-matrix02.jpg)
+![The Matrix With Mom #1](/pictures/after-cancer/watching-matrix01.jpg)
+![The Matrix With Mom #2](/pictures/after-cancer/watching-matrix02.jpg)
 
 She was still having her good and bad days (more bad than good, but that was to be expected with how fast the fluid was building). No major progress unfortunately, but there was still some hope towards the end because we switched cancer doctors to a doctor that knew my brother and Mom personally. She suggested that we should get a drain put into her stomach to drain the fluid so that we can do it at my Aunt's house every 3 days or so instead of needing to wait a week or longer to do it at the hospital.
 
