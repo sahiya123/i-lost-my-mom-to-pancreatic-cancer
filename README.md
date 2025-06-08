@@ -8,7 +8,7 @@ This has been the worst pain I've had to endure in my lifetime by a **LONG** sho
 
 If you're suffering and want somebody to talk and/or relate to, my DMs are open! If you have Discord, you can add me! My username is `gamemann`, but I'd recommend joining my [Deaconn](https://discord.deaconn.net/) Discord server first since I get a lot of spam friend requests that are ignored most of the time. You can also email me or contact me through my social media profiles!
 
-I also want this repository to act as a tribute to my awesome Mom. I've also added pictures I love and adore inside of the [`pictures/`](./pictures/) directory. There will also be memories and stories available in the [`memories/`](./memories/) directory. Both of these directories will be updated over time as I progress through these difficult times.
+I also want this repository to act as a tribute to my awesome Mom. I've added pictures I love and adore inside of the [`pictures/`](./pictures/) directory. There are also memories and stories available in the [`memories/`](./memories/) directory. Both of these directories will be updated over time as I progress through these difficult times.
 
 Once I learn how to cope with this painful loss properly, I also plan on making an open-source website dedicated to my Mom that'll share her pictures, stories, and more. I plan on hosting it on my cheap VPS inside of a Docker container like my other websites I've made.
 
