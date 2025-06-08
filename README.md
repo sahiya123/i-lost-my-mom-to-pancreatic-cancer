@@ -8,7 +8,9 @@ If you're suffering and want somebody to talk and relate to, my DMs are open! If
 
 I also want this repository to act as a tribute to my awesome Mom. I've also added pictures I love inside of the [`pictures/`](./pictures/) directory. There will also be memories and stories available in the [`memories/`](./memories/) directory. Both of these directories will be updated over time as I progress through these difficult times.
 
-**DISCLAIMERS** - Some things said in this repository may potentially trigger PTSD or trauma, especially since I detail what my Mom was going through. I'm also very very emotional and some things I say, especially at the end, are very deep as well. Lastly, the main story here (the README) is not finished and there may be grammar issues. I plan on editing this over time.
+Once I learn how to cope with this painful loss properly, I also plan on making an open-source website dedicated to my Mom that'll share her pictures, stories, and more. I plan on hosting it on my cheap VPS inside of a Docker container like my other websites I've made.
+
+**DISCLAIMERS** - Some things said in this repository may potentially trigger PTSD or trauma, especially since I detail what my Mom was going through. I'm also very very emotional and some things I say, especially at the end, are very deep as well. Lastly, the main story here (the README) is not finished and there may be grammar mistakes. I plan on editing this over time.
 
 ## My Mom
 ![Picture 01 Of My Mom](./pictures/before-cancer/mom01.JPEG)
