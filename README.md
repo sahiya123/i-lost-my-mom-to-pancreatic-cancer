@@ -1,16 +1,18 @@
 I recently lost my beloved Mom to a 10-month battle with deadly [Pancreatic Cancer](https://www.mayoclinic.org/diseases-conditions/pancreatic-cancer/symptoms-causes/syc-20355421) on **June 6th, 2025**. This README will detail the journey from the cancer diagnosis until she passed. I will also create separate journals on what days were like after her death and how I'm processing it. This repository is a big work-in-progress since everything is completely raw/devastating to me right now and there are some days I may skip and come back to.
 
-I understand this may be a bit weird as well, especially storing all of this information inside a *public* GitHub repository. However, my goal is to not only help myself, but help others who have lost or are losing a loved one and who are currently in the stages of grief. I also just wanted to share my story and writing about everything I've experienced does help me.
+I understand this may be a bit weird and unusual to some, especially storing all of this information inside a *public* GitHub repository (not sure if this has really been done on GitHub before). I tend to create GitHub repositories for things other than just source code and documentation. It's still just as useful for these type of things in my opinion and love having everything in one place.
 
-This has been the worst pain I've endured in my lifetime by a **LONG** shot and just writing about it makes me feel a little better and it also gives me some closure as well. If this writing helps others, I'll feel even better.
+My goal is to not only help myself, but help others who have lost or are in the middle of losing a loved one along with those currently experiencing stages of grief. I also just wanted to share my story and I've found writing about everything I've experienced in this tragedy has helped so far.
 
-If you're suffering and want somebody to talk and relate to, my DMs are open! If you have Discord, you can add me! My username is `gamemann`, but I'd recommend joining my [Deaconn](https://discord.deaconn.net/) Discord server first since I get a lot of spam friend requests that are ignored most of the time. You can also email me or contact me through my social media profiles!
+This has been the worst pain I've had to endure in my lifetime by a **LONG** shot and just writing about it makes me feel a little better and it also gives me some closure as well. If this writing helps others, that'll make me feel even better.
 
-I also want this repository to act as a tribute to my awesome Mom. I've also added pictures I love inside of the [`pictures/`](./pictures/) directory. There will also be memories and stories available in the [`memories/`](./memories/) directory. Both of these directories will be updated over time as I progress through these difficult times.
+If you're suffering and want somebody to talk and/or relate to, my DMs are open! If you have Discord, you can add me! My username is `gamemann`, but I'd recommend joining my [Deaconn](https://discord.deaconn.net/) Discord server first since I get a lot of spam friend requests that are ignored most of the time. You can also email me or contact me through my social media profiles!
+
+I also want this repository to act as a tribute to my awesome Mom. I've also added pictures I love and adore inside of the [`pictures/`](./pictures/) directory. There will also be memories and stories available in the [`memories/`](./memories/) directory. Both of these directories will be updated over time as I progress through these difficult times.
 
 Once I learn how to cope with this painful loss properly, I also plan on making an open-source website dedicated to my Mom that'll share her pictures, stories, and more. I plan on hosting it on my cheap VPS inside of a Docker container like my other websites I've made.
 
-**DISCLAIMERS** - Some things said in this repository may potentially trigger PTSD or trauma, especially since I detail what my Mom was going through. I'm also very very emotional and some things I say, especially at the end, are very deep as well. Lastly, the main story here (the README) is not finished and there may be grammar mistakes. I plan on editing this over time.
+**DISCLAIMERS** - Some things said in this repository may potentially trigger PTSD or trauma, especially since I go into detail on what my Mom went through. I'm also very very emotional and exhausted, and some things I say, especially at the end, are very deep and personal. Lastly, the main story here (the README) is not finished and there may be grammar mistakes and improvements that can be made. I plan on improving the flow, layout, and grammar mistakes in the future.
 
 ## My Mom
 ![Picture 01 Of My Mom](./pictures/before-cancer/mom01.JPEG)
