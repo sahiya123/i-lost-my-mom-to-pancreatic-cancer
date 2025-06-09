@@ -14,4 +14,6 @@ When they arrived, we all went into my Mom's bedroom and broke the news to him. 
 
 From this point on, Jason ordered some pizza (which was really nice of him). The grief counselor stayed for a couple of hours and we all talked about a lot of stuff. I was bringing up a lot of childhood memories and also talked about my time in middle and high school (Jason and I went to the same schools and grew up in the same class). It made me realize I had a lot of past truama that I never addressed and with my Mom's passing, everything was just hitting at once.
 
-I don't really remember the rest of the day/night. I just remember playing video games on my computer and just feeling like I'm in a nightmare. It wasn't hard to get to sleep, but it sucked. 
+Later on, my half-sister, her husband, and baby came over. She didn't have the same Mom as me, but it was still nice she came over for my Dad and us. Personally, when she came, I needed alone time so I went into my backyard and just sat there. At one point, I looked through my house's window and I swear I thought I saw my Mom. However, it was just my sister walking by the window (looked like her from the distance). My heart skipped a beat at this moment and I just got so sad afterwards.
+
+I don't really remember the rest of the day/night. I just remember playing video games on my computer and just feeling like I'm in a nightmare. It wasn't hard to get to sleep, but it sucked.
