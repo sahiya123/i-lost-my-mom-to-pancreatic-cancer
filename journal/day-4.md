@@ -16,6 +16,6 @@ I've also been becoming easily irritated, but it's not logical and I understand 
 
 Later on in the night, I played a really fun video game called Holdfast which has up to 75vs75 player matches and it's a very community-driven game. A lot of people like playing music and stuff over the mic (the game has proximity voice), so I was in there playing some classic 1990s and 2000s songs and just having a good time with others which really helped to be honest. For example, [here's a video](https://www.youtube.com/watch?v=VdUW4_DVMdQ) I made years ago playing the cha cha slide and 20 - 30 people played along with it. Playing this game and socializing has at least helped.
 
-Before falling asleep, I was scrolling through FaceBook and saw this post. It absolutely broke me because I think it completely resembles myself and how I view my Mom right now.
+Before falling asleep, I was scrolling through FaceBook and saw this post. It absolutely broke me because I think it completely resembles myself and how I view my Mom right now (even if the image was made with AI lol).
 
 ![FaceBook Post](../images/journal/fb-post-mom.png)
