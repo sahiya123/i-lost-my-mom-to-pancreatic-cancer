@@ -1,6 +1,8 @@
 **Journal Entry Started At 6:20 PM EST on June 10th**
 
-I had my first decent sleep in a long while (7.5 hours with 1+ hour of REM sleep and 1+ hour of deep sleep according to my watch). However, it took me around 2 - 3 hours to get out of bed. I've just been exhausted and I've felt sick, like aching pains all throughout my body and just heavily fatigued. I also realized I hadn't been eating or drinking much.
+I had my first decent sleep in a long while (7.5 hours with 1+ hour of REM sleep and 1+ hour of deep sleep according to my watch). Also pretty sure I dreamed of my Mom last night, but I forget the context and really the dream itself (I think seeing her in my dreams makes me even more sad because I wake up that it's not real).
+
+It took me around 2 - 3 hours to get out of bed. I've just been exhausted and I've felt sick, like aching pains all throughout my body and just heavily fatigued. I also realized I hadn't been eating or drinking much.
 
 I ended up forcing myself out of bed to clean my bed sheets and room. I also decided to eat a bit better (ordered some healthier food) and drink some water. I tried playing a video game (Resident Evil 5) for a bit, but the fatigue overwhelmed me pretty quickly. Since my bed sheets were being cleaned, I went downstairs and laid on the couch with a blanket. My house has a ceiling window and I just laid on the couch looking through the window and watching the clouds go by. At this time, I was just hoping for some sort of sign or something that my Mom would send through the clouds to tell me she was okay. I tried being delusional with some clouds I saw and told myself "wait that's an angel, it's a sign!" to attempt to make me feel better, but the reality was it didn't look anything like it.
 
