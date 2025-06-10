@@ -3,4 +3,5 @@ This is a list of my public journal entries for each day after my Mom passed. Th
 ## Completed Entries
 * [Day 1](./day-1.md) (6-6-25)
 * [Day 2](./day-2.md) (6-7-25)
+* [Day 4](./day-4.md) (6-9-25)
 * [Day 5](./day-5.md) (6-10-25)
