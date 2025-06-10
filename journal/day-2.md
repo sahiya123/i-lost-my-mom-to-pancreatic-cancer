@@ -1,1 +1,5 @@
-*To Do...*
+**Journal Entry Started At 6:10 PM EST on June 10th**
+
+I'm still trying to process everything happening and play video games to keep my mind occupied (even though it doesn't work most of the time). I started working on this repository and asked my sister for pictures of my Mom and I. She sent hundreds of pictures of her in general and I found around 5 - 6 pictures of just me and her. She told me there are many more pictures she'll need to scan, though.
+
+Pretty much all of these pictures are of her and me when I was a child. I took a lot of comfort in seeing them, but it's so weird since I don't remember a lot of them. It made me realize I didn't really have any pictures of her and me in the last few years. This is a huge regret now looking back, but we weren't big picture takers later on in life. There were pictures we had taken at holiday events, I just never received them personally.
